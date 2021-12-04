@@ -536,6 +536,8 @@ img{
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 50px; 
+  width: 320px; 
+  height: 180px; 
 }
 
 
@@ -650,6 +652,10 @@ img{
   }
   .back-label{
     opacity: 100%; 
+  }
+  .video {
+    width: 560px; 
+    height: 315px; 
   }
 }
 
