@@ -1,4 +1,4 @@
-# Vera Wei's Portfolio
+# Homework 8: Vera Wei's Portfolio
 ## [See the website live](https://veraweiii.github.io)
 ### Overview
 This portfolio website showcases my work in UX design and graphic design. It is responsive and can be viewed on different screens such as desktop or mobile. 
